@@ -1238,14 +1238,17 @@ tools:
   owner: ecology
   revisions:
   - 7e6cc3da1189
+  - ffaa9a71b2d2
   tool_panel_section_label: Compute indicators for turnover boulders fields
 - name: cb_ivr
   owner: ecology
   revisions:
   - 8c6142630659
+  - b67730406f1b
   tool_panel_section_label: Compute indicators for turnover boulders fields
 - name: champ_blocs
   owner: ecology
   revisions:
+  - 9e830eb2eaa0
   - 9ed95b4a273c
   tool_panel_section_label: Compute indicators for turnover boulders fields
