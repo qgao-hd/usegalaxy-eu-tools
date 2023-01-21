@@ -17,6 +17,7 @@ tools:
 - name: annotatemyids
   owner: iuc
   revisions:
+  - 133f36c29579
   - 1a125daea0d8
   - 1aae04680c4b
   - 38eedf3cc3c9
@@ -563,6 +564,7 @@ tools:
 - name: bionano_scaffold
   owner: bgruening
   revisions:
+  - 22286dab5aa1
   - 5258e18bbe23
   - 5d7c5ae1b69b
   - 8cc3862f8b8e
@@ -612,6 +614,7 @@ tools:
   - 5f625c63b8bc
   - 6505bd37670d
   - 9ef6920c3089
+  - c388a21dcbf1
   - f3c89da3af16
   tool_panel_section_label: Assembly
 - name: hypo
@@ -1035,6 +1038,7 @@ tools:
   - 33c99804a32f
   - 54ccb7e1f49a
   - 584008e574b2
+  - 72ed72122deb
   - bd46669113b9
   - e525f9ffb9ac
   tool_panel_section_label: Convert Formats
@@ -4097,6 +4101,7 @@ tools:
   owner: iuc
   revisions:
   - bda6012394f7
+  - ea270d0ad0e6
   tool_panel_section_label: Metagenomic Analysis
 - name: poisson2test
   owner: devteam
@@ -6558,6 +6563,7 @@ tools:
 - name: pangolin
   owner: iuc
   revisions:
+  - 03ed9524dcd1
   - 0ec813ad2910
   - 14ae456b8cc5
   - 2fa9d4f1b48f
