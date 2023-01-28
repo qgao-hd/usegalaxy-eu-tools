@@ -84,26 +84,31 @@ tools:
   owner: iuc
   revisions:
   - 14f588312c56
+  - 9f2455341fac
   tool_panel_section_label: Annotation
 - name: funannotate_clean
   owner: iuc
   revisions:
+  - 73428a792541
   - a230ea445788
   tool_panel_section_label: Annotation
 - name: funannotate_compare
   owner: iuc
   revisions:
+  - 494f0bb4a993
   - 563a19373357
   tool_panel_section_label: Annotation
 - name: funannotate_predict
   owner: iuc
   revisions:
   - 2bba2ff070d9
+  - 7abc5f6dd595
   tool_panel_section_label: Annotation
 - name: funannotate_sort
   owner: iuc
   revisions:
   - b3cf4684e9c7
+  - d3af38b9c7e1
   tool_panel_section_label: Annotation
 - name: glimmer_build_icm
   owner: bgruening
@@ -503,6 +508,7 @@ tools:
   - 037a11682176
   - 19793eecc9f0
   - 200c378d85f3
+  - 2c68b0c38785
   - 37213cf56392
   - 4272bd430a01
   - 45083d070fb8
@@ -608,6 +614,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 2061fb3b81b4
   - 366a11d316a7
   - 3f7be05a1597
   - 5bec28269d95
@@ -2124,6 +2131,7 @@ tools:
   owner: iuc
   revisions:
   - 1005ffbccd86
+  - b91e1e70f3a1
   - f63cf0adfd87
   tool_panel_section_label: Get Data
 - name: sra_tools
@@ -2139,6 +2147,7 @@ tools:
   - 7068f48d0ef9
   - 751a694ec620
   - 83c7d564b128
+  - 9a776b080193
   - aad3885b3216
   - b723c120161a
   - c441583adae5
@@ -2243,6 +2252,7 @@ tools:
   - 1acf88921176
   - 1bff6682e780
   - 299307abd804
+  - 3b12bf9b4b87
   - 46f91106439b
   - 5fe1dc76176e
   - 87908c76ca8d
@@ -2350,6 +2360,7 @@ tools:
   owner: iuc
   revisions:
   - 0ea86f6bf2a1
+  - 14e7c35f3d00
   - 2074627b0f83
   - 2824d77cd8f8
   - 326a3db8d9d1
@@ -3419,12 +3430,14 @@ tools:
 - name: coverm_contig
   owner: iuc
   revisions:
+  - 688a777e1b19
   - 6941d0d453ba
   tool_panel_section_label: Metagenomic Analysis
 - name: coverm_genome
   owner: iuc
   revisions:
   - 134e4e78e754
+  - a671907f96fe
   tool_panel_section_label: Metagenomic Analysis
 - name: customize_metaphlan_database
   owner: iuc
@@ -3878,6 +3891,7 @@ tools:
 - name: kleborate
   owner: iuc
   revisions:
+  - 374b2e9ade86
   - '383036561810'
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken
@@ -6842,11 +6856,13 @@ tools:
   owner: iuc
   revisions:
   - 5dd6b8c4ee1e
+  - cef4148ac5f2
   tool_panel_section_label: RNA Analysis
 - name: cherri_train
   owner: iuc
   revisions:
   - 2f7daa5d2d82
+  - a30b9df1775a
   - ed0efb924438
   tool_panel_section_label: RNA Analysis
 - name: chira_collapse
@@ -8788,6 +8804,7 @@ tools:
   owner: iuc
   revisions:
   - 553b27c30eb8
+  - f75bf16ac901
   tool_panel_section_label: Variant Calling
 - name: breseq
   owner: iuc
