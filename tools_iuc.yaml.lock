@@ -1818,6 +1818,7 @@ tools:
   - 3c97c841a443
   - c80cdc2eac6d
   - f99d7825a501
+  - f99dd58de04f
   tool_panel_section_label: Filter and Sort
 - name: xpath
   owner: iuc
@@ -7346,6 +7347,7 @@ tools:
   - 62d212192002
   - 6e45b443ef1f
   - 914cfcba0ec8
+  - ae618321f34a
   - cef79931dda5
   - dd4df992d93d
   - eba36e001f45
