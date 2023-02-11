@@ -33,6 +33,7 @@ tools:
 - name: bakta
   owner: iuc
   revisions:
+  - 865ece5ca178
   - da5f1924bb2e
   - debdc1469b41
   tool_panel_section_label: Annotation
@@ -1333,6 +1334,7 @@ tools:
   owner: iuc
   revisions:
   - 204a131e47db
+  - 425dab0e057b
   - a9c9d768b751
   tool_panel_section_label: FASTA/FASTQ
 - name: cutadapt
@@ -2141,6 +2143,7 @@ tools:
   - 1790dcf3c32d
   - 26b7446bb17e
   - 494b2ec08162
+  - 4df8de2d0e48
   - 5534eb46de20
   - 5e6237d58b0c
   - 653e89d73fc4
@@ -3000,6 +3003,7 @@ tools:
   - 6d44c9f1a42b
   - 81cbb6a4c1ca
   - 858a65b52cf9
+  - 9ed6579f52f3
   - e0ca2ec4f5d9
   tool_panel_section_label: Mapping
 - name: bioext_bealign
@@ -3632,6 +3636,7 @@ tools:
 - name: humann
   owner: iuc
   revisions:
+  - 2cd76b089570
   - 65c80ca30373
   - 6b7622dda516
   tool_panel_section_label: Metagenomic Analysis
@@ -3737,11 +3742,13 @@ tools:
   owner: iuc
   revisions:
   - 10fdefbf5920
+  - 5ae955d5bd2b
   - 67b835aace09
   tool_panel_section_label: Metagenomic Analysis
 - name: humann_barplot
   owner: iuc
   revisions:
+  - 0cd140dfdecf
   - 3f16956afb8a
   - 5240d62d864d
   - 79698158a59c
@@ -3751,22 +3758,26 @@ tools:
   revisions:
   - cb7de6e163ca
   - cf7f80d59099
+  - fd7ebf31b030
   tool_panel_section_label: Metagenomic Analysis
 - name: humann_reduce_table
   owner: iuc
   revisions:
   - 324c12894d59
   - c2488dbc8e39
+  - d122106c317f
   tool_panel_section_label: Metagenomic Analysis
 - name: humann_regroup_table
   owner: iuc
   revisions:
   - 26ce946f4da9
+  - 79706f10d680
   - c409a495841f
   tool_panel_section_label: Metagenomic Analysis
 - name: humann_rename_table
   owner: iuc
   revisions:
+  - 172920f67a84
   - 71ea608ddfa3
   - d24841f5c3d2
   tool_panel_section_label: Metagenomic Analysis
@@ -3774,23 +3785,27 @@ tools:
   owner: iuc
   revisions:
   - 4137b492233e
+  - d7e9a3c41657
   - e3391ccf21a0
   tool_panel_section_label: Metagenomic Analysis
 - name: humann_rna_dna_norm
   owner: iuc
   revisions:
   - 1e55949cf16e
+  - 44a27841ca50
   - ec422794133f
   tool_panel_section_label: Metagenomic Analysis
 - name: humann_split_stratified_table
   owner: iuc
   revisions:
+  - 64bc7acc22a9
   - 75bedfb2078b
   - e2c71b852aba
   tool_panel_section_label: Metagenomic Analysis
 - name: humann_split_table
   owner: iuc
   revisions:
+  - 44cacbe09bfc
   - 506d4a349aa1
   - f00f2c835ac2
   tool_panel_section_label: Metagenomic Analysis
@@ -3798,11 +3813,13 @@ tools:
   owner: iuc
   revisions:
   - 0ff86e44895c
+  - 18481a7c3676
   - 9540860a506f
   tool_panel_section_label: Metagenomic Analysis
 - name: humann_unpack_pathways
   owner: iuc
   revisions:
+  - 080ea153677c
   - 4033827c76b8
   - c3d043160f09
   tool_panel_section_label: Metagenomic Analysis
@@ -5772,6 +5789,7 @@ tools:
   owner: iuc
   revisions:
   - 204a131e47db
+  - 425dab0e057b
   - a9c9d768b751
   tool_panel_section_label: NCBI Blast
 - name: diamond
@@ -8485,6 +8503,7 @@ tools:
 - name: bbtools_callvariants
   owner: iuc
   revisions:
+  - 8eace8923202
   - b955346ef41e
   - d1912018a603
   tool_panel_section_label: Variant Calling
@@ -9496,6 +9515,7 @@ tools:
   - 731182d54f78
   - 78bbd17d0703
   - 7f781286b55f
+  - 9c5754002592
   - a38934e303b9
   - d1459d85ff18
   - d6e72da3ec35
@@ -9555,6 +9575,7 @@ tools:
   - d37ede8589b2
   - db536ad45f28
   - e3bb03cf207a
+  - f0cc9cf99407
   tool_panel_section_label: Virology
 - name: ivar_variants
   owner: iuc
@@ -9600,6 +9621,7 @@ tools:
   revisions:
   - 60eb2512c5a0
   - 87febc68b45b
+  - fea85c467896
 - name: data_manager_interproscan
   owner: iuc
   revisions:
