@@ -328,6 +328,7 @@ tools:
   owner: iuc
   revisions:
   - 1ae00120dd24
+  - 4768f7f8e93f
   tool_panel_section_label: Annotation
 - name: interproscan
   owner: bgruening
@@ -3135,6 +3136,7 @@ tools:
   - 7ed2edc1337f
   - 850f3679b9b4
   - 980d2a2e1180
+  - a2b0feda6933
   - b9e04854e2bb
   - bc685d13b637
   - c772497b2c32
@@ -3151,6 +3153,7 @@ tools:
   - 58b278def57e
   - 61cb2042581a
   - 79b885ce78d7
+  - 9ee34ba73ebf
   - a6fba3d92531
   - c23da6257d6a
   - e403d27e8f24
@@ -9509,6 +9512,7 @@ tools:
 - name: ivar_consensus
   owner: iuc
   revisions:
+  - 1069f6db0a0e
   - 2d9926ce62be
   - 3e4f434a69c6
   - 5e668dc9f379
@@ -9533,6 +9537,7 @@ tools:
   - 51afc8a64951
   - 72ddd32392cd
   - 7fe36019c073
+  - 8f8df367470d
   - b93845a04cc8
   - c88553ec696e
   - f91cfb73d369
@@ -9553,6 +9558,7 @@ tools:
   - 43aac8d29685
   - 75c279fa403a
   - 7f1cfa4c0e32
+  - 8c05afb547fa
   - 8d36959b000d
   - 94df24c6bc00
   - 9eaadf03e0df
@@ -9569,6 +9575,7 @@ tools:
   - 5d6ed46cc101
   - 8858fa037a15
   - 9f978da6528a
+  - bcaa0d571ce2
   - c092052ed673
   - cb903c9dc33d
   - cf65217ad61c
@@ -9590,6 +9597,7 @@ tools:
   - aea7008fe1f1
   - c5c9f02b6167
   - e1a015876aa9
+  - ed28dd32141c
   - f95f403841ad
   tool_panel_section_label: Virology
 - name: read_it_and_keep
