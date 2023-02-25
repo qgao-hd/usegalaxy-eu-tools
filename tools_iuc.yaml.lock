@@ -605,6 +605,7 @@ tools:
 - name: getorganelle
   owner: iuc
   revisions:
+  - 06bcf65179fb
   - 8b330a577046
   tool_panel_section_label: Assembly
 - name: hapog
@@ -624,6 +625,7 @@ tools:
   - 6505bd37670d
   - 9ef6920c3089
   - c388a21dcbf1
+  - da9d8bf98802
   - f3c89da3af16
   tool_panel_section_label: Assembly
 - name: hypo
@@ -999,6 +1001,7 @@ tools:
   - 0a5c785ac6db
   - 3e38c9b3214f
   - 4f7a5ccd2ae9
+  - 589e7e57fd6d
   - 6bb3cd018203
   - 7ab85ac5f64b
   - a68aa6c1204a
@@ -3132,6 +3135,7 @@ tools:
   - 4074fc1940e2
   - 41929aa1e7f3
   - 44959aa06aeb
+  - 4df95e2d7f61
   - 5ec75f5dae3c
   - 7ed2edc1337f
   - 850f3679b9b4
@@ -3149,6 +3153,7 @@ tools:
   revisions:
   - 00fbfac99d39
   - 178bdbdb6d24
+  - 1cd2511a396e
   - 3a1253ee137b
   - 58b278def57e
   - 61cb2042581a
@@ -5930,6 +5935,7 @@ tools:
 - name: nanoplot
   owner: iuc
   revisions:
+  - 0f1c34698076
   - 4c172a4a4c9e
   - 645159bcee2d
   - a3c4fe6f49ab
@@ -6681,6 +6687,7 @@ tools:
   - 1aac2a13842a
   - 1cd1cf786389
   - 2a17c789e0a5
+  - 585027e65f3b
   - 6f9c0884a3e7
   - 7d34178f2812
   - 881d7645d1bf
@@ -7139,6 +7146,7 @@ tools:
   - 90d16db017d7
   - 9301937c9037
   - a37612abf7f9
+  - a56fbe2d6ba7
   - af814359d244
   - c7bd0cc53524
   - ce44c6f2ba38
@@ -7276,6 +7284,7 @@ tools:
   owner: nilesh
   revisions:
   - 1421603cc95b
+  - 473382134e56
   - 5968573462fa
   tool_panel_section_label: RNA Analysis
 - name: ruvseq
