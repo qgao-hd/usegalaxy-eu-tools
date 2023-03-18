@@ -3598,6 +3598,7 @@ tools:
   revisions:
   - 54aa421c2911
   - 7157accd23d0
+  - d99788b71ce7
   - ef1c257adcbd
   tool_panel_section_label: Metagenomic Analysis
 - name: drep_dereplicate
@@ -3605,6 +3606,7 @@ tools:
   revisions:
   - 368cb4bef9d8
   - 8dfcdbeaeed8
+  - a0713a10c9f6
   - ef7cd2e7bc05
   tool_panel_section_label: Metagenomic Analysis
 - name: dram_strainer
@@ -3938,6 +3940,7 @@ tools:
   revisions:
   - 374b2e9ade86
   - '383036561810'
+  - 959920e3e800
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken
   owner: devteam
