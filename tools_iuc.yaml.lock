@@ -1208,6 +1208,7 @@ tools:
   - 95219305823a
   - a6ea26c1f225
   - b4e6819b25ef
+  - d82648ad25a3
   - f7094efef903
   tool_panel_section_label: Epigenetics
 - name: moabs
@@ -6890,6 +6891,7 @@ tools:
 - name: arriba
   owner: iuc
   revisions:
+  - 3d61a698e5e1
   - 4f1efcc055d5
   - a24ca22b906e
   - add230dddd52
@@ -6899,6 +6901,7 @@ tools:
   owner: iuc
   revisions:
   - 2d4e3aff9dc7
+  - 31f8063eedea
   - 68ff8cd874db
   - 765e685641ce
   - cf18a5993aa2
@@ -6908,6 +6911,7 @@ tools:
   revisions:
   - 125d20cb23d7
   - 1fe9d667447c
+  - 32e542c2a773
   - 47311adce34e
   - acbda5dc6955
   tool_panel_section_label: RNA Analysis
@@ -9575,6 +9579,7 @@ tools:
   - d1459d85ff18
   - d6e72da3ec35
   - e319b5b65879
+  - e4ee04da1c19
   - f362150bef41
   tool_panel_section_label: Virology
 - name: ivar_filtervariants
@@ -9589,6 +9594,7 @@ tools:
   - 72ddd32392cd
   - 7fe36019c073
   - 8f8df367470d
+  - 9537184d421f
   - b93845a04cc8
   - c88553ec696e
   - f91cfb73d369
@@ -9607,6 +9613,7 @@ tools:
   - 28a6f1908fcc
   - 3d18f8c3c0f6
   - 43aac8d29685
+  - 6a1515bb0687
   - 75c279fa403a
   - 7f1cfa4c0e32
   - 8c05afb547fa
@@ -9626,6 +9633,7 @@ tools:
   - 5d6ed46cc101
   - 8858fa037a15
   - 9f978da6528a
+  - a2b94388d00d
   - bcaa0d571ce2
   - c092052ed673
   - cb903c9dc33d
@@ -9642,6 +9650,7 @@ tools:
   - 252dfb042563
   - 3888bbe7a9ca
   - 38b91a3190cd
+  - 3b6a16d82c1b
   - 49236b03e4fd
   - 584beffa972b
   - aa9de8f20668
