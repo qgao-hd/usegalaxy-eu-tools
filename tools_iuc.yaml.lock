@@ -2198,6 +2198,7 @@ tools:
   - 5e6237d58b0c
   - 653e89d73fc4
   - 69ebb7f46e45
+  - 6ea73833cf67
   - 7068f48d0ef9
   - 751a694ec620
   - 83c7d564b128
@@ -7479,6 +7480,7 @@ tools:
 - name: salmon
   owner: bgruening
   revisions:
+  - 15cd64d7c58b
   - 1b22d8a18acc
   - 2c0ca397d302
   - 49121db48873
@@ -7502,6 +7504,7 @@ tools:
   - 88c07fc4024c
   - 992c077f6e41
   - cfb0849582e1
+  - dba18bf7528f
   - ee72e302b6a3
   - f6e3a10a88e5
   tool_panel_section_label: RNA Analysis
@@ -8097,6 +8100,7 @@ tools:
   - 908a8d400fa2
   - 917f8e439160
   - c0ea43315baf
+  - e32b215b7c04
   - e4c01dcece8b
   - e53f19161c59
   - e572598580c2
@@ -8671,6 +8675,7 @@ tools:
 - name: artic_guppyplex
   owner: iuc
   revisions:
+  - 00e20a06ff1e
   - 372def2f8fd6
   - 5ceeb5a5d70f
   - 7a82006f7c05
@@ -8679,6 +8684,7 @@ tools:
   owner: iuc
   revisions:
   - 376a706dda11
+  - 468b90c41cde
   - 6f52ebc01098
   - 7a7d7f30ddfc
   - 94020e19b46c
