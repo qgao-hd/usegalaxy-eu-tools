@@ -9712,16 +9712,19 @@ tools:
   owner: iuc
   revisions:
   - 373c1735d31f
+  - 9f1660129403
   tool_panel_section_label: Virology
 - name: cooc_pubmut
   owner: iuc
   revisions:
   - d04ea6b052c5
+  - f193fef5b19d
   tool_panel_section_label: Virology
 - name: cooc_tabmut
   owner: iuc
   revisions:
   - 4be399803856
+  - 579538ff939d
   tool_panel_section_label: Virology
 - name: freyja_aggregate_plot
   owner: iuc
