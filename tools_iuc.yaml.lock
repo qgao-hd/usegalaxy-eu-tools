@@ -36,6 +36,7 @@ tools:
   owner: iuc
   revisions:
   - 3f0aa1b3e816
+  - 728dacaf08a9
   - 865ece5ca178
   - da5f1924bb2e
   - debdc1469b41
@@ -1100,6 +1101,7 @@ tools:
   - 584008e574b2
   - 72ed72122deb
   - bd46669113b9
+  - e177a8ea0bf1
   - e525f9ffb9ac
   tool_panel_section_label: Convert Formats
 - name: compress_file
@@ -2224,6 +2226,7 @@ tools:
   - 69ebb7f46e45
   - 6ea73833cf67
   - 7068f48d0ef9
+  - 734abc7ac21d
   - 751a694ec620
   - 83c7d564b128
   - 9a776b080193
@@ -8723,6 +8726,7 @@ tools:
 - name: query_tabular
   owner: iuc
   revisions:
+  - 3a6b78c39dca
   - cf34c344508d
   tool_panel_section_label: Text Manipulation
 - name: reshape2_cast
