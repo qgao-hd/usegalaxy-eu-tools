@@ -2165,6 +2165,7 @@ tools:
   owner: iuc
   revisions:
   - 1162bfd9f782
+  - 6cb20e130473
   - 8bbe09a52904
   - 9564758e8638
   - caf213d51d6c
@@ -4145,6 +4146,7 @@ tools:
   owner: devteam
   revisions:
   - 065938419efe
+  - 50bd98b3ae5a
   - f03c7ba8d8bc
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_biom
@@ -6065,6 +6067,7 @@ tools:
   - 0413e62b757a
   - 0632744d5a5f
   - 12c40c8c86db
+  - 18505fe2bdb1
   - 1c4402b9244d
   - 22f6a0e7424f
   - 5901bb391198
@@ -6095,6 +6098,7 @@ tools:
   - cb34f00cc10f
   - d915879a88bc
   - ef94bace3a3c
+  - fc8804320156
   tool_panel_section_label: Nanopore
 - name: medaka_variant
   owner: iuc
@@ -6111,6 +6115,7 @@ tools:
   - cc36773a3681
   - d50c1d5b72ce
   - e86fcef8ed91
+  - eb746fa6f514
   - ec699520444c
   - edf6d4003fad
   tool_panel_section_label: Nanopore
@@ -6215,6 +6220,7 @@ tools:
   owner: iuc
   revisions:
   - 3a2f2e24c37e
+  - dc1500f42073
   tool_panel_section_label: Nanopore
 - name: annotation_profiler
   owner: devteam
@@ -6932,6 +6938,7 @@ tools:
   - b502c227b5e6
   - b9fbec5ac6b2
   - f6ced08779c4
+  - f9242e01365a
   tool_panel_section_label: Picard
 - name: prot_scriber
   owner: iuc
@@ -7369,6 +7376,7 @@ tools:
 - name: edger
   owner: iuc
   revisions:
+  - 0cb907a2a810
   - 334ce9b1bac5
   - 3d89af8a44f0
   - 4730985c816f
@@ -8604,6 +8612,7 @@ tools:
 - name: add_value
   owner: devteam
   revisions:
+  - 023f0a3760b3
   - 745871c0b055
   tool_panel_section_label: Text Manipulation
 - name: basecoverage
@@ -10004,6 +10013,7 @@ tools:
   revisions:
   - 2b1413e30889
   - 6531acf8209f
+  - 97b384b7bfb0
   - d8c919d26d0e
   - e5a296ce8fbb
   tool_panel_section_label: deepTools
@@ -10012,12 +10022,14 @@ tools:
   revisions:
   - 29451af70c52
   - c89b665b45e4
+  - c929a006727f
   - de72ba3ed6f2
   - e821645ef8fc
   tool_panel_section_label: deepTools
 - name: deeptools_bam_coverage
   owner: bgruening
   revisions:
+  - 0e49b109abc2
   - 12af64f93288
   - 2d2cf5c1ea8a
   - 4df95152a39e
@@ -10030,10 +10042,12 @@ tools:
   - 3f9dc453c0e8
   - 62eb6d63f582
   - 7c1beb6d6eca
+  - c06951d10364
   tool_panel_section_label: deepTools
 - name: deeptools_bigwig_compare
   owner: bgruening
   revisions:
+  - 07418a30ed01
   - 26e7304d6737
   - 3d211717a775
   - 7989c6ddf634
@@ -10042,6 +10056,7 @@ tools:
 - name: deeptools_compute_gc_bias
   owner: bgruening
   revisions:
+  - 26983857c91a
   - 2bc10a9ca58b
   - 56d5b797ce84
   - 5be24eba848d
@@ -10052,6 +10067,7 @@ tools:
   - 19bb3e6d9e31
   - 514fa53b5efb
   - 9470f29702f8
+  - a60c359ec43c
   - d9a637e83828
   tool_panel_section_label: deepTools
 - name: deeptools_compute_matrix_operations
@@ -10060,6 +10076,7 @@ tools:
   - 7e6bcd2e5128
   - 7ef978dc1b8a
   - be95d48dd27f
+  - e6d0bff01239
   - ee3a1b0f45f1
   tool_panel_section_label: deepTools
 - name: deeptools_correct_gc_bias
@@ -10069,6 +10086,7 @@ tools:
   - 2c37ce318bc3
   - 5bffaa8354a1
   - ca0616bb2cdf
+  - e479c7ca5570
   tool_panel_section_label: deepTools
 - name: deeptools_estimatereadfiltering
   owner: bgruening
@@ -10076,11 +10094,13 @@ tools:
   - 71082dac170c
   - bd1f40ce9769
   - bddbd9538b08
+  - c72a755904a9
   tool_panel_section_label: deepTools
 - name: deeptools_multi_bam_summary
   owner: bgruening
   revisions:
   - 004aea905d4d
+  - 01fb6a7654e6
   - 1fcb7adc39b8
   - 78f405266706
   - b4e53394fced
@@ -10088,6 +10108,7 @@ tools:
 - name: deeptools_multi_bigwig_summary
   owner: bgruening
   revisions:
+  - 137c4beed34b
   - 3c9f0c486cca
   - 459cfa861f0b
   - d580d6acd1df
@@ -10098,12 +10119,14 @@ tools:
   revisions:
   - 2c66e43f1c86
   - 32e451def88c
+  - bad3ca889618
   - e44978659400
   - fd408d755394
   tool_panel_section_label: deepTools
 - name: deeptools_plot_coverage
   owner: bgruening
   revisions:
+  - 231994413f89
   - 56bce3c82278
   - 7fda5607e777
   - 9368fbc49c8b
@@ -10111,6 +10134,7 @@ tools:
 - name: deeptools_plot_enrichment
   owner: bgruening
   revisions:
+  - 4431f39ede55
   - 88ce7fed1488
   - b1779366c8e9
   - c03c3384cd81
@@ -10120,6 +10144,7 @@ tools:
   owner: bgruening
   revisions:
   - 2da482e408b8
+  - 4ed32329e0ed
   - 793665fff0f8
   - b88ebb3672a1
   - ca8a7f0ea872
@@ -10131,11 +10156,13 @@ tools:
   - 42cb23d80271
   - a4dfb122e52b
   - ba6efa77fb79
+  - e4c7985d4585
   tool_panel_section_label: deepTools
 - name: deeptools_plot_pca
   owner: bgruening
   revisions:
   - 00d869ea03a1
+  - 443d9a9d6d11
   - 69264da0ce77
   - 7784523d9743
   - c899e0ccff8c
@@ -10144,6 +10171,7 @@ tools:
   owner: bgruening
   revisions:
   - 10301d137111
+  - 6662b1a8d326
   - a2d70c4fd406
   - c361b12d207a
   - e9429e484e25
