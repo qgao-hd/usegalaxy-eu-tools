@@ -648,6 +648,7 @@ tools:
 - name: hapog
   owner: iuc
   revisions:
+  - 7d56a813fd24
   - c61bc8bb5f1e
   tool_panel_section_label: Assembly
 - name: hifiasm
@@ -659,6 +660,7 @@ tools:
   - 3f7be05a1597
   - 5bec28269d95
   - 5f625c63b8bc
+  - 60024a528cbd
   - 6505bd37670d
   - 71740308d412
   - 9ef6920c3089
@@ -880,6 +882,7 @@ tools:
   - 865119fcb694
   - ad80238462c1
   - d9f6a00b6db7
+  - ee17a294d3a3
   - f698c7604b3b
   tool_panel_section_label: Assembly
 - name: smudgeplot
@@ -7377,6 +7380,7 @@ tools:
 - name: edger
   owner: iuc
   revisions:
+  - 070900306913
   - 0cb907a2a810
   - 334ce9b1bac5
   - 3d89af8a44f0
