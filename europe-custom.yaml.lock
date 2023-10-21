@@ -1477,6 +1477,7 @@ tools:
   - 424aefbd7777
   - 640d3af5d833
   - 6d4babad010f
+  - 86e2413cf3f8
   - bfe57d6e0c4c
   tool_panel_section_label: Peak Calling
 - name: diffbind
