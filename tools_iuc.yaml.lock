@@ -1110,6 +1110,7 @@ tools:
   - 54ccb7e1f49a
   - 584008e574b2
   - 72ed72122deb
+  - a4db66553a61
   - bd46669113b9
   - e177a8ea0bf1
   - e525f9ffb9ac
@@ -2236,6 +2237,7 @@ tools:
   - 5534eb46de20
   - 5e6237d58b0c
   - 653e89d73fc4
+  - 6591f049cf7e
   - 69ebb7f46e45
   - 6ea73833cf67
   - 7068f48d0ef9
@@ -4244,6 +4246,7 @@ tools:
   - 86206f93fb13
   - 9a7e91fc6562
   - bf30030e5265
+  - eca7ac1eb423
   - f5a5a2b39ff2
   tool_panel_section_label: Metagenomic Analysis
 - name: lca_wrapper
@@ -5989,6 +5992,7 @@ tools:
   revisions:
   - 0c84cce7b030
   - 5a92f4c476b5
+  - 87c1c223c704
   tool_panel_section_label: Multiple Alignments
 - name: msaboot
   owner: iuc
@@ -6076,6 +6080,7 @@ tools:
   revisions:
   - 34ac212ef95e
   - aea6702a3cd5
+  - ce86aafd8494
   - e6799e98c5fb
   tool_panel_section_label: NCBI Blast
 - name: ncbi_blast_plus
@@ -6085,6 +6090,7 @@ tools:
   - 2889433c7ae1
   - 5edc472ec434
   - 7f3c448e119b
+  - a52d2d93e595
   - acf4e47b734c
   - c877294f8025
   - d375502056f1
@@ -6925,6 +6931,7 @@ tools:
   revisions:
   - 034f76ead49a
   - 2bf47d57ebb5
+  - 7157a5b34a68
   - 850e213bee26
   tool_panel_section_label: Phylogenetics
 - name: raxml
@@ -7154,6 +7161,7 @@ tools:
 - name: arriba
   owner: iuc
   revisions:
+  - 01ccd366690d
   - 3d61a698e5e1
   - 4f1efcc055d5
   - a24ca22b906e
@@ -7167,6 +7175,7 @@ tools:
   - 31f8063eedea
   - 68ff8cd874db
   - 765e685641ce
+  - cf01dd6c6b1f
   - cf18a5993aa2
   tool_panel_section_label: RNA Analysis
 - name: arriba_get_filters
@@ -7176,6 +7185,7 @@ tools:
   - 1fe9d667447c
   - 32e542c2a773
   - 47311adce34e
+  - 703a2cb3fb38
   - acbda5dc6955
   tool_panel_section_label: RNA Analysis
 - name: barrnap
@@ -7586,10 +7596,12 @@ tools:
   owner: iuc
   revisions:
   - 8e903cb3f919
+  - e25d81465c23
   tool_panel_section_label: RNA Analysis
 - name: ribowaltz_process
   owner: iuc
   revisions:
+  - 042cab870a39
   - 6d4c94373bba
   tool_panel_section_label: RNA Analysis
 - name: rnaquast
@@ -8240,6 +8252,7 @@ tools:
   revisions:
   - 26ccb678abc8
   - 382518f24d6d
+  - 480d9e9d156b
   - 4aab5ae907b6
   - 57251c760cab
   - 59bb6d34fca6
