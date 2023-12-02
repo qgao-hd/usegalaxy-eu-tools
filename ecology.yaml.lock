@@ -139,6 +139,7 @@ tools:
   owner: peterjc
   revisions:
   - 7c40a1fbc82e
+  - bdaefd241921
   tool_panel_section_label: Filter and Sort
 - name: xmlstarlet
   owner: ecology
@@ -353,6 +354,7 @@ tools:
   owner: peterjc
   revisions:
   - 141612f8c3e3
+  - 83a19df00eab
   tool_panel_section_label: Filter and Sort
 - name: transformation
   owner: ethevenot

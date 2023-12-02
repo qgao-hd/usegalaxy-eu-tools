@@ -667,6 +667,7 @@ tools:
   revisions:
   - 06bcf65179fb
   - 611219887a48
+  - 7348b69e5109
   - 8b330a577046
   tool_panel_section_label: Assembly
 - name: hapog
@@ -732,6 +733,7 @@ tools:
   revisions:
   - 14ddfc8ffb93
   - 7518ee87b53d
+  - a96f3ad4e0d8
   - de387b2b2803
   tool_panel_section_label: Assembly
 - name: merqury
