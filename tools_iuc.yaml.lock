@@ -392,6 +392,7 @@ tools:
   owner: iuc
   revisions:
   - 19f42b3ea391
+  - 9e776e7fab4f
   tool_panel_section_label: Annotation
 - name: jcvi_gff_stats
   owner: iuc
@@ -443,6 +444,7 @@ tools:
   - 52742626480e
   - 8b08ea650060
   - c7553ba39670
+  - ca1142e5df8b
   - f20804c311de
   tool_panel_section_label: Annotation
 - name: mitos2
@@ -452,6 +454,7 @@ tools:
   - 624606f7c996
   - 79e259afea34
   - 80323066acd4
+  - af3c1dc1d141
   - e95d52d295d7
   tool_panel_section_label: Annotation
 - name: mlst
@@ -4508,6 +4511,7 @@ tools:
   owner: iuc
   revisions:
   - 09b7b0b2e2c2
+  - 12f0968f171c
   - 824497684a1f
   - b5407cc2bf51
   - fe733f05c2f8
@@ -7113,10 +7117,12 @@ tools:
   - 85c411546123
   - 9b99159b2b23
   - a8addd4fb60a
+  - c5dd4f86d981
   tool_panel_section_label: Proteomics
 - name: proteinortho_grab_proteins
   owner: iuc
   revisions:
+  - 079fffa782df
   - 6eec1c6410fe
   - 85ffb2cc6b64
   - a87f7278b4ee
@@ -7135,6 +7141,7 @@ tools:
   - a670bdbf8869
   - c3f58c2eee1e
   - de26b312c0d2
+  - f960d1fa3739
   tool_panel_section_label: Proteomics
 - name: syndiva
   owner: iuc
