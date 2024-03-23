@@ -238,6 +238,7 @@ tools:
   - 8934bc76bb52
   - 8bac3cc5c5de
   - 97a7f34fcb6a
+  - 9c52362ae7bb
   - d72c96ad9a16
   - e42225f8a659
   - ea0a1d50c83f
@@ -650,6 +651,7 @@ tools:
   - 85b8866f06d7
   - '860429737408'
   - a72ac2c7cc5b
+  - e63db1aa82ee
   - f1834b310c09
   tool_panel_section_label: Proteomics
 - name: metaquantome_expand
@@ -659,6 +661,7 @@ tools:
   - 1974224d63c2
   - 352b37c66d97
   - 4187b6df1a40
+  - 767c1d761aaf
   - 990b4560ead7
   - eb65ab160a10
   tool_panel_section_label: Proteomics
@@ -666,6 +669,7 @@ tools:
   owner: galaxyp
   revisions:
   - 2ee495a1fc84
+  - 35cc7ca0bdc7
   - 4f359549383c
   - 7d1c20b315ff
   - 99450519d727
@@ -675,6 +679,7 @@ tools:
 - name: metaquantome_sample
   owner: galaxyp
   revisions:
+  - 06f6826d380c
   - 40ca115438d2
   - 49a957fb353a
   - ac3511167a71
@@ -688,6 +693,7 @@ tools:
   - 020a9ecdc1e1
   - 982a442a98dd
   - b648e45fd3cf
+  - b9d453dca8d3
   - d2eac53666f0
   - d46d64e7964d
   - da986f83631b
@@ -698,6 +704,7 @@ tools:
   - 02da24eac445
   - 1199751329b0
   - 6cfd42b015b4
+  - 8bd7734309f6
   - 944b43462104
   - 9bf325045235
   - eb811f3018ea
@@ -737,6 +744,7 @@ tools:
 - name: metagene_annotator
   owner: galaxyp
   revisions:
+  - 17c7ab82bfbc
   - b04960a7abf5
   tool_panel_section_label: Metagenomic Analysis
 - name: pepquery
