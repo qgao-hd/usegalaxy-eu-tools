@@ -2295,6 +2295,7 @@ tools:
   revisions:
   - 4a851c02f558
   - 7a5ff5359b13
+  - d6dcd3173bdf
   tool_panel_section_label: Proteomics
 - name: filter_by_fasta_ids
   owner: galaxyp
