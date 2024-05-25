@@ -1171,6 +1171,7 @@ tools:
   - 3e38c9b3214f
   - 4f7a5ccd2ae9
   - 589e7e57fd6d
+  - 64e2edfe7a2c
   - 6bb3cd018203
   - 7ab85ac5f64b
   - a1a923cd89e8
@@ -1416,6 +1417,7 @@ tools:
   - 288db50d1fb9
   - 524d31add34a
   - 563c3aa769f2
+  - 70acec670c30
   - 973a28be3b7f
   - 9b892d7f82cc
   - b8476e82ac20
@@ -3892,6 +3894,7 @@ tools:
   - 4d89978c6188
   - 5b5a7af9fbb4
   - 63f86089423e
+  - 65db807336bc
   - 76d3d2b10738
   - 79212a309499
   - 7c2100246a2f
@@ -3899,6 +3902,7 @@ tools:
 - name: dada2_dada
   owner: iuc
   revisions:
+  - 00f5005840fa
   - 18a502a9d287
   - 1c35dadbe76f
   - 2222f08c8316
@@ -3918,6 +3922,7 @@ tools:
   - addaf9d22850
   - ca73bbac615a
   - cc41546adf56
+  - e8fba04706d3
   - f732237754fc
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_learnerrors
@@ -3926,6 +3931,7 @@ tools:
   - 04c15826a0b8
   - 0776d824d896
   - 39638e0aff59
+  - 5fe3edf19b9c
   - 75403243703a
   - 8c202e741d68
   - afdfa35a89d9
@@ -3938,6 +3944,7 @@ tools:
   - 1c9b3bcd4261
   - 43c99742158b
   - 6e0946238688
+  - 75c8945b0da2
   - 8470de786d47
   - 99c6929236fa
   - 9ccec6ed8e82
@@ -3950,6 +3957,7 @@ tools:
   - 0b884b080bb6
   - 1d75bd0595e2
   - 306a40d4bb8f
+  - 35176674168c
   - 5c865a382933
   - 69900ffd3b8e
   - 805daed21ef3
@@ -3960,6 +3968,7 @@ tools:
   owner: iuc
   revisions:
   - 1728e5ee871a
+  - 32c9ea835770
   - 498d57610fcd
   - 555ccac8a4c5
   - 78faebd0879c
@@ -3976,6 +3985,7 @@ tools:
   - 52a911972c02
   - 7b8cb2b02978
   - a58e4a43f49c
+  - cae017b76acb
   - d60df8727f59
   - f947b4bb5107
   - fa11922f3d91
@@ -3984,6 +3994,7 @@ tools:
   owner: iuc
   revisions:
   - 04144473e59e
+  - 073608a50ac3
   - 1937c2b4da7a
   - 1bc3657cd694
   - 5b752525bd6f
@@ -4000,6 +4011,7 @@ tools:
   - 4cc834cce4fb
   - 7d28da5e9e27
   - 9058d8943303
+  - a7817705348e
   - d26cea4b4cc4
   - d943081510da
   - f74c56549143
@@ -4029,6 +4041,7 @@ tools:
   - 54aa421c2911
   - 7157accd23d0
   - 965f73e77296
+  - 9902c85117a4
   - d99788b71ce7
   - ef1c257adcbd
   - ffeabd4e2c1b
@@ -4041,6 +4054,7 @@ tools:
   - 8dfcdbeaeed8
   - a0713a10c9f6
   - a248ec535518
+  - cafcc13990ee
   - ef7cd2e7bc05
   tool_panel_section_label: Metagenomic Analysis
 - name: dram_strainer
